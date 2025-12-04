@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"Concrete_scrape_loop",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":4.5653515,
+  "exportDir":"",
+  "name":"Concrete_scrape_loop",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"Concrete_scrape_loop.mp3",
+  "volume":0.05,
+}
