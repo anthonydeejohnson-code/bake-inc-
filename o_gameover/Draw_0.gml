@@ -1,0 +1,1 @@
+draw_text(x,y, "Cash:$ " + string(global.cash));

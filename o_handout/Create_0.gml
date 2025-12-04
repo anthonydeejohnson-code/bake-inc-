@@ -1,0 +1,9 @@
+used = false;
+player1_use = false;
+player2_use = false;
+time_max = 100;
+time1= 0;
+time2= 0;
+time_tick =5;
+handing_out = false;
+order_given = "noone"
